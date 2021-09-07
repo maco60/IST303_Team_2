@@ -29,5 +29,5 @@ upper_exaggeration = viking_exaggeration.upper()
 print(upper_exaggeration)
 
 #Task 8 Answer:
-partial_exaggeration = viking_exaggeration[3:7]
+partial_exaggeration = viking_exaggeration[3:8]
 print(partial_exaggeration)
